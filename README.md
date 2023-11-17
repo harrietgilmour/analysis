@@ -10,4 +10,6 @@ Notebooks to analyse the results of MCS tracking over South America. This includ
 -  amazon drought of 2005
 -  most damaging MCSs
 -  interannual variability
+-  cloud band - MCSs analysis
+-  vertical velocity in CPM
 -  etc...
